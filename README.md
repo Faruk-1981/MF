@@ -140,7 +140,7 @@
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2025 MyPortfolio | All Rights Reserved</p>
+    <p>&copy; 2025 MOHAMMED FARUK| All Rights Reserved</p>
   </footer>
 
   <!-- JS -->
