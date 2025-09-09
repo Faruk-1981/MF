@@ -51,7 +51,7 @@
   <section id="home" class="hero">
     <div>
       <h1>Hello, I'm <span>MR__MOHAMMED FARUK</span></h1>
-      <p>I am the veti officer</p>
+      <p>I am the student</p>
       <a href="#projects" class="btn">View My Work</a>
     </div>
   </section>
